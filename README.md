@@ -1,6 +1,7 @@
 # senior-capstone-fall-2018
 
 Data Visualization of Missing and Unidentified Persons in the United States 
+
 Project by: Bandr AlSwyan and Ricky Severino  
  
 Abstract:
