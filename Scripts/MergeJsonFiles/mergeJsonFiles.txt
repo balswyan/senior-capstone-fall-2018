@@ -1,0 +1,1 @@
+jq -s '.[0].list=([.[].list]|flatten)|.[0]' *.json
